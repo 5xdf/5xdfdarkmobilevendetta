@@ -12,7 +12,7 @@
       "rgb(0,0,0)"
       ],
       "BACKGROUND_FLOATING": [
-      "rgb(0,0,0)"
+      "rgba(0,0,0,0.5)"
       ],
       "BACKGROUND_MENTIONED": [
       "rgba(255, 255, 255, 0.1)"
@@ -54,13 +54,13 @@
       "rgba(198, 208, 245, 0.2)"
       ],
       "BACKGROUND_PRIMARY": [
-      "#303446"
+      "rgb(0,0,0)"
       ],
       "BACKGROUND_SECONDARY": [
-      "#292c3c"
+      "rgb(50,0,0)"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#252836"
+      "rgb(50,50,50)"
       ],
       "BACKGROUND_TERTIARY": [
       "#232634"
@@ -123,16 +123,16 @@
       "#626880"
       ],
       "TEXT_DANGER": [
-      "#e78284"
+      "rgb(255,0,255)"
       ],
       "TEXT_LINK": [
-      "#8caaee"
+      "rgb(255,0,0)"
       ],
       "TEXT_MUTED": [
       "#a5adce"
       ],
       "TEXT_NORMAL": [
-      "#c6d0f5"
+      "rgb(255,255,255)"
       ]
   },
     "rawColors": {
