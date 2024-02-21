@@ -66,10 +66,10 @@
       "#232634"
       ],
       "CHANNEL_ICON": [
-      "#949ec5"
+      "rgba(255,0,0,1)"
       ],
       "CHANNELS_DEFAULT": [
-      "#949ec5"
+      "rgba(100,0,0,1)"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER" : [
       "rgba(198, 208, 245, 0.5)"
