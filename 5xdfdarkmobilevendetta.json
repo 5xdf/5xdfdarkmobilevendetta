@@ -84,7 +84,7 @@
       "#a5adce"
       ],
       "HOME_BACKGROUND": [
-      "#2e2828"
+      "rgba(100,0,0,1)"
       ],
       "INTERACTIVE_ACTIVE": [
       "#c6d0f5"
@@ -120,7 +120,7 @@
       "#f5a97f"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#626880"
+      "rgba(50,0,0,1)"
       ],
       "TEXT_DANGER": [
       "rgb(255,0,255)"
