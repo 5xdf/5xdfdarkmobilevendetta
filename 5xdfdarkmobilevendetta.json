@@ -21,7 +21,7 @@
           "StatusStreaming": "#c4a7e7",
           "StatusMobileOnline": "#93bfb3",
           "StatusIdle": "#ebd6ba",
-          "StatusDND": "#ba6565",
+          "StatusDND": "rgba(255,0,0,1)",
           "StatusOffline": "#908caa",
           "StatusOnline": "#93bfb3"
        }
